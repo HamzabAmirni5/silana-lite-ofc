@@ -14,18 +14,18 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '212605784394',
- pairingNumber : '212605784394',
- figlet: 'silanalite', // create a start console display
- nomorwa : '212605784394',
- nameown : 'NOUREDDINE',
- nomerown : '212717457920',
+ nomerbot : '212708869993',
+ pairingNumber : '212708869993',
+ figlet: 'HAMZA AMIRNI', // create a start console display
+ nomorwa : '212708869993',
+ nameown : 'HAMZA AMIRNI',
+ nomerown : '212708869993',
  packname : 'sticker by ',
- author : 'SILANA AI',
- namebot : '乂 SILANA AI',
+ author : 'HAMZA AI',
+ namebot : '乂 HAMZA AI',
  wm : 'SILANA LITE.',
  stickpack : 'Whatsapp',
- stickauth : 'SILANA LITE',
+ stickauth : 'HAMZA LITE',
  jid: '@s.whatsapp.net'
 }
 
@@ -52,9 +52,10 @@ global.media = {
 }
 // Social media
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://instagram.com/noureddine_ouafy',
- sgc: 'https://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A'
+ sig: 'https://instagram.com/Hamza_amirni_01',
+ sgh:  'https://instagram.com/Hamza_amirni_01',
+ sgc: 'https://whatsapp.com/channel/0029ValXRoHCnA7yKopcrn1p'
+ sgc: 'https://whatsapp.com/channel/0029VaDbxoYJpe8byewMhd3s'
 }
 // Donasi
 global.payment = {
